@@ -1,6 +1,6 @@
-#If the codes help you,
+*If the codes help you,
 
-#please cite the works.
+**please cite the works.
 
 1: FRFS0-IVC2016.zip
 Non-convex Regularized Self-representation for Unsupervised Feature Selection
