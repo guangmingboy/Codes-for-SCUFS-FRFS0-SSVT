@@ -1,6 +1,6 @@
-#If the codes help you,
+# If the codes help you,
 
-##please cite the works.
+## please cite the works.
 
 >FRFS0-IVC2016.zip
 >>Non-convex Regularized Self-representation for Unsupervised Feature Selection
@@ -29,11 +29,4 @@ pages={700--712},
 >SCUFS-PR2016.zip
 >>Subspace clustering guided unsupervised feature selection
 
->>>@article{zhu2017subspace,
-  title={Subspace clustering guided unsupervised feature selection},
-  author={Zhu, Pengfei and Zhu, Wencheng and Hu, Qinghua and Zhang, Changqing and Zuo, Wangmeng},
-  journal={Pattern Recognition},
-  volume={66},
-  pages={364--374},
-  year={2017}
-}
+>>>[zhu2017non]`
