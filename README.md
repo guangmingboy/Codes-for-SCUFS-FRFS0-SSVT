@@ -1,9 +1,9 @@
-*If the codes help you,
+#If the codes help you,
 
-**please cite the works.
+##please cite the works.
 
-1: FRFS0-IVC2016.zip
-Non-convex Regularized Self-representation for Unsupervised Feature Selection
++ FRFS0-IVC2016.zip
+>Non-convex Regularized Self-representation for Unsupervised Feature Selection
 
 @article{zhu2017non,
   title={Non-convex regularized self-representation for unsupervised feature selection},
@@ -11,12 +11,11 @@ Non-convex Regularized Self-representation for Unsupervised Feature Selection
   journal={Image and Vision Computing},
   volume={60},
   pages={22--29},
-  year={2017},
-  publisher={Elsevier}
+  year={2017}
 }
 
-2:SSVT-PRICAI2016.zip
-Set to Set Visual Tracking
++ SSVT-PRICAI2016.zip
+>Set to Set Visual Tracking
 
 @book{Zhu2016,
 author={Zhu, Wencheng and Zhu, Pengfei and Hu, Qinghua and Zhang, Changqing},
@@ -27,7 +26,8 @@ publisher={Springer International Publishing},
 pages={700--712},
 }
 
-3:SCUFS-PR2016.zip
++ SCUFS-PR2016.zip
+>Subspace clustering guided unsupervised feature selection
 
 @article{zhu2017subspace,
   title={Subspace clustering guided unsupervised feature selection},
@@ -35,6 +35,5 @@ pages={700--712},
   journal={Pattern Recognition},
   volume={66},
   pages={364--374},
-  year={2017},
-  publisher={Elsevier}
+  year={2017}
 }
